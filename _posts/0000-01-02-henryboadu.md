@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Henry's slide!"
 ---
-I am really enjoying this Software Engineering Program from GIBT
+This is my awesome slide
 Use the left arrow to go back!
